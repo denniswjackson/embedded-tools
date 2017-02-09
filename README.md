@@ -5,4 +5,4 @@ This repo is a collection of tools and processes used during development of embe
 Notes:
 
 * Use of this repo is governed by the license in the root of this repo.
-* While use of this repo is governed by an Open Source license, the repo shall remain private because Airware can not maintain these projects as official open source.
+
